@@ -1,4 +1,5 @@
 # Tic-Tac-Toe
+Loom Video Explanation: https://www.loom.com/share/742753c3815b4d99a662a65f94bb2e6d
 For educational purposes
 
 #include <stdio.h>
